@@ -1,9 +1,44 @@
 {
-  "posts": [
+  "posts": [ 
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "typicode" }
+}
+
+{
+  "characters": [
+      {
+          "id": 1,
+          "name": "Mr. Cute",
+          "image": "images/pexels-alex-andrews-271121-2295744.jpg",
+          "votes": 0
+      },
+      {
+          "id": 2,
+          "name": "Mx. Monkey",
+          "image": "images/pexels-dsd-143941-1822603.jpg",
+          "votes": 0
+      },
+      {
+          "id": 3,
+          "name": "Ms. Zebra",
+          "image": "images/pexels-jvdm-1524628.jpg",
+          "votes": 0
+      },
+      {
+          "id": 4,
+          "name": "Dr. Lion",
+          "image": "images/pexels-alexasfotos-2220337.jpg",
+          "votes": 0
+      },
+      {
+          "id": 5,
+          "name": "Mme. Panda",
+          "image": "images/pexels-laurathexplaura-3608263.jpg",
+          "votes": 0
+      }
+  ]
 }
